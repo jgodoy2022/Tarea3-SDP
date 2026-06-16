@@ -1,6 +1,6 @@
 #define cimg_display 0
 #define cimg_use_jpeg
-#include "CImg.h"
+#include "CImg-3.7.7_pre06112618/CImg.h" /*https://cimg.eu*/
 #include <iostream>
 #include <vector>
 
